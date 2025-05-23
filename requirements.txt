@@ -1,4 +1,5 @@
 pyTelegramBotAPI
 python-dotenv
 aiohttp
+google-generativeai
 # any other libs you use
